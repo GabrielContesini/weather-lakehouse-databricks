@@ -161,20 +161,6 @@ Separação clara por camadas (Bronze/Silver/Gold)
 
 Data Quality automatizado com relatório versionável
 
-🧾 Bullet pronto para currículo / LinkedIn
-
-“Implementei pipeline em arquitetura Lakehouse com camadas Bronze/Silver/Gold, transformações no Databricks (Spark), outputs particionados em Parquet e Data Quality checks automatizados com relatório de consistência por execução.”
-
-📷 Prints sugeridos para fortalecer o portfólio
-
-Azure Storage mostrando bronze/openmeteo/dt=.../city=.../run_ts=...json
-
-Print do display(silver.limit(10))
-
-Print do display(gold)
-
-Print do conteúdo do dq_report.json
-
 🔗 Repositórios
 
 Ingestão / Azure Functions (HTTP → Bronze no Azure Storage):
